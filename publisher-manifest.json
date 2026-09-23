@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "532ce8a6ee30a2e7de6d680b",
+  "owner": "ber4gyatf",
+  "repo": "page-c7534876bf4f58df29207435",
+  "title": "银河加速",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "c7534876bf4f58df29207435",
+      "a": "银河加速",
+      "b": "2027官方最新地址导航",
+      "entity": "银河加速",
+      "brand": "银河加速",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "67f97ead2d27b01759b4fe710bd4d3d2996de5661d9fe72e88371a1bc054dcc9",
+      "content": {
+        "primary_entity": "银河加速",
+        "keyword1": "银河加速",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备类型选择对应客户端，再导入订阅使用。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "对比流量与设备数量，选定套餐后按客户端导入订阅即可开始使用。",
+          "AI_CLOSING_TITLE": "开始使用银河加速",
+          "AI_DESCRIPTION": "，围绕套餐流量、设备数量与订阅周期提供清晰选择。基础版每月 100GB 流量、支持 3 台设备在线；旗舰版每月 300GB、支持 5 台设备，并含 IPLC 专线游戏加速优化与 7x24 优先工单支持；团队版每月 1000GB、支持 20 台设备，提供 VIP 专属高带宽节点与企业定制路由。按年付可分别以 ¥150、¥350、¥850 获取全年服务。",
+          "AI_FEATURES_INTRO": "从流量、设备与订阅周期三个角度快速定位合适套餐。",
+          "AI_FEATURES_TITLE": "套餐选择要点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB 适合轻度使用，旗舰版 300GB 满足日常流媒体与游戏，团队版 1000GB 面向多人共享。",
+          "AI_FEATURE_TEXT_2": "基础版 3 台、旗舰版 5 台、团队版 20 台，先确认常用设备数量再选版本可避免浪费。",
+          "AI_FEATURE_TEXT_3": "月付灵活试用，年付更划算，基础版 ¥150、旗舰版 ¥350、团队版 ¥850 即可覆盖整年。",
+          "AI_FEATURE_TITLE_1": "按流量规模",
+          "AI_FEATURE_TITLE_2": "按设备数量",
+          "AI_FEATURE_TITLE_3": "按订阅周期",
+          "AI_GUIDE_INTRO": "选择服务、确认设备适配、导入订阅三步完成配置。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "银河加速提供基础版、旗舰版、团队版多档海外加速套餐，覆盖 100GB 至 1000GB 流量与 3 至 20 台设备在线，可按月或按年订阅，满足个人流媒体、游戏加速及团队共享等不同场景。",
+          "AI_HERO_SUBTITLE": "银河加速套餐与客户端配置指引",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖 100GB 至 1000GB 流量",
+          "AI_HIGHLIGHT_2": "旗舰版含 IPLC 专线游戏加速优化",
+          "AI_HIGHLIGHT_3": "支持 3 至 20 台设备同时在线",
+          "AI_PLANS_INTRO": "基础版 ¥15/月、旗舰版 ¥35/月、团队版 ¥85/月，年付分别 ¥150、¥350、¥850。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据日常流量与在线设备数量，从基础版、旗舰版、团队版中选定一档。",
+          "AI_STEP_TEXT_2": "查看所选套餐的适配要求，确认设备类型与系统版本可用。",
+          "AI_STEP_TEXT_3": "依照对应客户端的文档导入订阅，完成配置后开始使用。",
+          "AI_STEP_TITLE_1": "选择服务套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "导入订阅配置",
+          "AI_VISUAL_TITLE": "银河加速套餐选择",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "银河加速三档套餐怎么选？",
+          "AI_FAQ_ANSWER_1": "按设备数与流量区分：基础版3台/100GB适合轻量，旗舰版5台/300GB适合多设备，团队版20台/1000GB适合多人协作。",
+          "AI_FAQ_QUESTION_2": "年付比月付便宜多少？",
+          "AI_FAQ_ANSWER_2": "基础版月付¥15、年付¥150；旗舰版月付¥35、年付¥350；团队版月付¥85、年付¥850，年付折算后平均月费更低。",
+          "AI_FAQ_QUESTION_3": "订阅支持哪些客户端？",
+          "AI_FAQ_ANSWER_3": "常见桌面与移动系统均有对应客户端，建议按操作系统与设备类型挑选，并参照客户端文档完成订阅导入。",
+          "AI_FAQ_QUESTION_4": "多设备同时用会不会冲突？",
+          "AI_FAQ_ANSWER_4": "每档套餐设定了同时在线设备上限，基础版3台、旗舰版5台、团队版20台，超出上限时需升级或调整在线设备。",
+          "AI_FAQ_QUESTION_5": "旗舰版的IPLC专线有什么用？",
+          "AI_FAQ_ANSWER_5": "IPLC专线主要用于游戏与实时交互场景，减少绕行节点，旗舰版与团队版包含专线优化或高带宽节点。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "nfkpy.cn",
+    "host": "nfkpy.cn"
+  },
+  "file_hashes": {
+    "index.html": "0bfcc1c5d913a8664afb24e743ef4b2ec30e6aaf7e9fb0e1cb6fee66470ca012",
+    "sitemap.xml": "cb66327f1508fa019bcd346932c9a798835c58e75a5cf6a20cf5d407370c981e",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "609f31bbc3a3e0680ce873082f1ad0004a08cf38babe37fb80da648ebb0663e9",
+    "robots.txt": "8c5f074bf5004f54d750e4351d5eaeafa9b124e68d7a606426866cd86c1bcd52",
+    "ca124aacfa2fc8edd430ccdef0d37291.txt": "a1def77290a19bbe7ebdb6d3e0684814cc0e12a7c7c5cf66eb6067891072914f"
+  },
+  "revision": "46bc03cd66f41030b7478b7bda219a3fbff3612b430ff5a3b21036ad43e5f6d9"
+}
